@@ -1,0 +1,29 @@
+_repo: Cole-s-Funny-Picture-Book-No.-1_30726
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cole, E. W. (Edward William)
+    alias: Cole, Edward William
+    birthdate: 1832
+    deathdate: 1918
+    gutenberg_agent_id: '34776'
+    url: http://www.gutenberg.org/2009/agents/34776
+    wikipedia: http://en.wikipedia.org/wiki/Edward_William_Cole
+description: Collection of articles, poems and stories written for children.
+gutenberg_issued: '2009-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wit and humor, Juvenile'
+- !lcsh 'Australian wit and humor'
+- !lcc 'PZ'
+title: Cole's Funny Picture Book No. 1
+url: http://www.gutenberg.org/ebooks/30726
